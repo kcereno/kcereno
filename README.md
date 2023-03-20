@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karl Cereno</h1>
-<h3 align="center">A Frontend Web Develop from NYC</h3>
+<h3 align="center">A Frontend Web Developer from NYC</h3>
 
 - 🌱 I’m currently learning **advanced React Unit Testing**
 
